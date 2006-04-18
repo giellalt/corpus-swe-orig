@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <xsl:variable name="filename" select="''"/>
-<xsl:variable name="title" select="''"/>
+<xsl:variable name="title" select="'Evttohus BetänkandeGárvvistuvvon miessemánu 2001'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -46,9 +46,9 @@
 <xsl:variable name="place" select="''"/>
 <xsl:variable name="genre" select="''"/>
 <xsl:variable name="collection" select="''"/>
-<xsl:variable name="translator_fn" select="''"/>
-<xsl:variable name="translator_ln" select="''"/>
-<xsl:variable name="translator_gender" select="'unknown'"/>
+<xsl:variable name="translator_fn" select="'Rávdná'"/>
+<xsl:variable name="translator_ln" select="'Turi Henriksen'"/>
+<xsl:variable name="translator_gender" select="''"/>
 <xsl:variable name="translator_born" select="''"/>
 <xsl:variable name="translator_nat" select="''"/>
 <xsl:variable name="license_type" select="''"/>
@@ -57,11 +57,11 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.9 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.1 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.2 $'"/>
 
 
 <!-- The main language of the document -->
-<xsl:variable name="mainlang" select="''"/>
+<xsl:variable name="mainlang" select="'sme'"/>
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
