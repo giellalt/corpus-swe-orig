@@ -102,7 +102,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Rekspråkstadgan20060927_-_Nordsamiska.pdf'"/>
+<xsl:variable name="para_sme" select="'Rekspraakstadgan20060927_-_Nordsamiska.pdf'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
