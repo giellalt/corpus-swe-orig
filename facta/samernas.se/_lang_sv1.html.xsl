@@ -124,8 +124,8 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sme" location="__lang_sm1.html"/>
-	<parallel_text xml:lang="smj" location="__lang_ls1.html"/></xsl:variable>
+    <parallel_text xml:lang="sme" location="_lang_sm1.html"/>
+	<parallel_text xml:lang="smj" location="_lang_ls1.html"/></xsl:variable>
 
 
     <!--
