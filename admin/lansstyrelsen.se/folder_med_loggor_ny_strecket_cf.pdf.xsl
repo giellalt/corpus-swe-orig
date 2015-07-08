@@ -95,7 +95,7 @@
 	<parallel_text location="folder_grundskyddet_finska.pdf" xml:lang="fin"/>
 	<parallel_text location="folder_grundskyddet_sydsamiska.pdf" xml:lang="sma"/>
 	<parallel_text location="folder_grundskyddet_nordsamiska.pdf" xml:lang="sme"/>
-	<parallel_text location="folder_grundskyddet - lulesamiska.pdf" xml:lang="smj"/>
+	<parallel_text location="folder_grundskyddet-lulesamiska.pdf" xml:lang="smj"/>
 </xsl:variable>
 
 <!-- For page oriented documents, mark which pages should be ignored -->
