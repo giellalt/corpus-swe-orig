@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
 <xsl:import href="file:///home/unhammer/.local/lib/python2.7/site-packages/CorpusTools-0.9.0a1-py2.7.egg/corpustools/xslt/common.xsl"/>
@@ -91,8 +91,9 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="default.aspx_id=1030377.pdf" xml:lang="sma"/>
-	<parallel_text location="default.aspx_id=1029431.pdf" xml:lang="sme"/>
+	<parallel_text location="folder_kyrkoval2013_sydsamiska.pdf" xml:lang="sma"/>
+	<parallel_text location="folder_kyrkoval2013_nordsamiska.pdf" xml:lang="sme"/>
+<parallel_text location="folder_kyrkoval2013_romani_kelderash.pdf" xml:lang="rmy-rka"/>
 </xsl:variable>
 
 <!-- For page oriented documents, mark which pages should be ignored -->

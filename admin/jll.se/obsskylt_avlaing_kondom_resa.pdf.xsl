@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Format query results for display -->
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
             <xsl:import href="file:///home/unhammer/.local/lib/python2.7/site-packages/CorpusTools-0.9.0b4-py2.7.egg/corpustools/xslt/common.xsl"/>
 
@@ -125,16 +124,16 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="spa" location="obsskylt_avlang_kondom_resa_spanska.pdf"/>
-	<parallel_text xml:lang="ara" location="obsskylt_avlang_kondom_resa_arabiska.pdf"/>
-	<parallel_text xml:lang="eng" location="obsskylt_avlang_kondom_resa_engelska.pdf"/>
-	<parallel_text xml:lang="fas" location="obsskylt_avlang_kondom_resa_persiska.pdf"/>
-	<parallel_text xml:lang="fin" location="obsskylt_avlang_kondom_resa_finska.pdf"/>
-	<parallel_text xml:lang="fra" location="obsskylt_avlang_kondom_resa_franska.pdf"/>
-	<parallel_text xml:lang="ita" location="obsskylt_avlang_kondom_resa_italienska.pdf"/>
-	<parallel_text xml:lang="rus" location="obsskylt_avlang_kondom_resa_ryska.pdf"/>
-	<parallel_text xml:lang="sma" location="obsskylt_avlang_kondom_resa_sydsamiska.pdf"/>
-	<parallel_text xml:lang="sme" location="obsskylt_avlang_kondom_resa_nordsamiska.pdf"/>
+    <parallel_text xml:lang="spa" location="obsskylt_avlaing_kondom_resa_spanska.pdf"/>
+	<parallel_text xml:lang="ara" location="obsskylt_avlaing_kondom_resa_arabiska.pdf"/>
+	<parallel_text xml:lang="eng" location="obsskylt_avlaing_kondom_resa_engelska.pdf"/>
+	<parallel_text xml:lang="fas" location="obsskylt_avlaing_kondom_resa_persiska.pdf"/>
+	<parallel_text xml:lang="fin" location="obsskylt_avlaing_kondom_resa_finska.pdf"/>
+	<parallel_text xml:lang="fra" location="obsskylt_avlaing_kondom_resa_franska.pdf"/>
+	<parallel_text xml:lang="ita" location="obsskylt_avlaing_kondom_resa_italienska.pdf"/>
+	<parallel_text xml:lang="rus" location="obsskylt_avlaing_kondom_resa_ryska.pdf"/>
+	<parallel_text xml:lang="sma" location="obsskylt_avlaing_kondom_resa_sydsamiska.pdf"/>
+	<parallel_text xml:lang="sme" location="obsskylt_avlaing_kondom_resa_nordsamiska.pdf"/>
 	<parallel_text xml:lang="smj" location="obsskylt_avlaing_kondom_resa_lulesamiska.pdf"/></xsl:variable>
 
 
