@@ -124,8 +124,8 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sme" location="_oahpahusat_giella-samigieloahppa_lang_sm2.html"/>
-	<parallel_text xml:lang="smj" location="_799-2_756-2_lang_ls2.html"/></xsl:variable>
+    <parallel_text xml:lang="sme" location="oahpahusat_giella-samigieloahppa_lang_sm2.html"/>
+	<parallel_text xml:lang="smj" location="799-2_756-2_lang_ls2.html"/></xsl:variable>
 
 
     <!--

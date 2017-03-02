@@ -133,7 +133,7 @@
 	<parallel_text xml:lang="rmy-rka" location="barns-och-foraldrars-rattigheter.html"/>
 	<parallel_text xml:lang="rmy-rlo" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
 	<parallel_text xml:lang="sma" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
-	<parallel_text xml:lang="sme" location="-barns-och-foraldrars-rattigheter-i-varden.html"/>
+	<parallel_text xml:lang="sme" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
 	<parallel_text xml:lang="smj" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
 	<parallel_text xml:lang="yid" location="barns-och-foraldrars-rattigheter-i-varden.html"/></xsl:variable>
 
