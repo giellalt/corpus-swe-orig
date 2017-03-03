@@ -9,7 +9,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://www.gaaltije.se/sv/gaaltije.html'"/>
+    <xsl:variable name="filename" select="'http://www.samernas.se/nyheter/giellaj-hila'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -94,8 +94,7 @@
         <!-- <language xml:lang="smn"/> -->
         <!-- <language xml:lang="sms"/> -->
         <!-- <language xml:lang="swe"/> -->
-    <language xml:lang="swe"/>
-	<language xml:lang="sma"/></xsl:variable>
+    <language xml:lang="swe"/></xsl:variable>
 
     <!-- If the document has parallel texts, uncomment the right languages
          (or add new lines with the right ISO-639-3 language codes) and
@@ -125,7 +124,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sma" location="_sm_about-gaaltije_html1.html"/></xsl:variable>
+    <parallel_text xml:lang="smj" location="uncategorized-ls_giellaj-hila-2_lang_ls18.html"/></xsl:variable>
 
 
     <!--

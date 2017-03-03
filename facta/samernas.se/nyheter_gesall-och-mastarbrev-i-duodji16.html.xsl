@@ -9,7 +9,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://www.samernas.se/utbildningar/kontakttolkutb'"/>
+    <xsl:variable name="filename" select="'http://www.samernas.se/nyheter/gesall-och-mastarbrev-i-duodji'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -124,7 +124,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="smj" location="_799-2_796-2_lang_ls12.html"/></xsl:variable>
+    <parallel_text xml:lang="smj" location="uncategorized-ls_gesalla-ja-tjahppudakduodastus-duojen_lang_ls16.html"/></xsl:variable>
 
 
     <!--
