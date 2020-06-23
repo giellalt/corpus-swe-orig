@@ -165,14 +165,14 @@
         <parallel_text xml:lang="fkv" location=""/>
         <parallel_text xml:lang="ger" location=""/>
         <parallel_text xml:lang="isl" location=""/>
-        <parallel_text xml:lang="kal" location=""/>
+        <parallel_text xml:lang="kal" location="nunani_avannarlerni_nunat_inoqqaavi_puigortunngornermillu_nappaatit.pdf"/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location=""/>
-        <parallel_text xml:lang="smj" location=""/>
+        <parallel_text xml:lang="sma" location="aalkoe_almetjh_jih_demense_noerhtelaantine.pdf"/>
+        <parallel_text xml:lang="sme" location="eamialbmogat_ja_demeansa_davviriikkain.pdf"/>
+        <parallel_text xml:lang="smj" location="iemealmmuga_ja_demaenssa_nuorttarijkajn.pdf"/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>
