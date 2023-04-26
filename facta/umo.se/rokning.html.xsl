@@ -176,11 +176,11 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>
-    <parallel_text location="tyja.html" xml:lang="rmu"/>
-<parallel_text location="te-phes-duhano.html" xml:lang="rmy-rka"/>
-<parallel_text location="kana-pel-pe-duxano.html" xml:lang="rmy-rlo"/>
-<parallel_text location="thuviba.html" xml:lang="rmf"/>
-<parallel_text location="pijbe-cigare.html" xml:lang="rmn"/>
+    <parallel_text xml:lang="rmu" location="tyja.html"/>
+<parallel_text xml:lang="rmy-rka" location="te-phes-duhano.html"/>
+<parallel_text xml:lang="rmy-rlo" location="kana-pel-pe-duxano.html"/>
+<parallel_text xml:lang="rmf" location="thuviba.html"/>
+<parallel_text xml:lang="rmn" location="pijbe-cigare.html"/>
 </xsl:variable>
 
     <!--

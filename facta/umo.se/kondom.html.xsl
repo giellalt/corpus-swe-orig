@@ -176,11 +176,11 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>
-    <parallel_text location="karorakkepha.html" xml:lang="rmu"/>
-<parallel_text location="kondom.html" xml:lang="rmy-rka"/>
-<parallel_text location="kondomo.html" xml:lang="rmy-rlo"/>
-<parallel_text location="kondomi.html" xml:lang="rmf"/>
-<parallel_text location="kondomi.html" xml:lang="rmn"/>
+    <parallel_text xml:lang="rmu" location="karorakkepha.html"/>
+<parallel_text xml:lang="rmy-rka" location="kondom.html"/>
+<parallel_text xml:lang="rmy-rlo" location="kondomo.html"/>
+<parallel_text xml:lang="rmf" location="kondomi.html"/>
+<parallel_text xml:lang="rmn" location="kondomi.html"/>
 </xsl:variable>
 
     <!--
